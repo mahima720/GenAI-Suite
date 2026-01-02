@@ -1,8 +1,11 @@
 # 🤖 Gemini LLM Q&A Chatbot
 
-![Chatbot Image](/images/image1.png)
-
 A sleek, real-time Q&A application powered by the Google Gemini API and Streamlit. This chatbot features a streaming "typing" effect and maintains a persistent conversation history during your session.
+
+## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-genai-chatbot.streamlit.app/)
+
+![Chatbot Image](/images/image1.png)
 
 ## Features
 

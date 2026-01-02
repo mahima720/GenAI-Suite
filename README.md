@@ -1,6 +1,16 @@
 # 🚀 Gemini AI Suite
 A collection of interactive AI applications powered by Google's Gemini 2.5 Flash Lite model and Streamlit. This repository contains two distinct tools: a persistent Q&A Chatbot and a Multimodal Image Analyzer.
 
+## 🔗 Live Demo
+
+**Chatbot Live Demo:**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-genai-chatbot.streamlit.app/)
+
+**Image_Analyzer Live Demo:**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-genai-image-analyzer.streamlit.app/)
+
 ## 📂 Project Structure
 This repository is organized into two main modules. Click the links below to navigate to their specific setup instructions:
 

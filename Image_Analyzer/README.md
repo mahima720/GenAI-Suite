@@ -1,8 +1,12 @@
 # 🖼️ Gemini Image-to-Text Generator
 
-![Chatbot Image](/images/image3.png)
-
 A powerful Multi-modal AI application built with Streamlit and the Google Gemini API. This tool allows users to upload images and receive detailed text descriptions, object identification, or answers to specific questions about the uploaded file.
+
+## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-genai-image-analyzer.streamlit.app/)
+
+
+![Chatbot Image](/images/image3.png)
 
 ## Key Features
 
